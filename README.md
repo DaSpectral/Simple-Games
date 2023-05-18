@@ -1,4 +1,4 @@
 # Simple-Games
-The repository with ecreations of simple games!
+The repository with recreations of simple games!
 
 The languages used are arbitrary!
